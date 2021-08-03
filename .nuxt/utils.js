@@ -150,7 +150,7 @@ export async function setContext (app, context) {
       payload: context.payload,
       error: context.error,
       base: '/',
-      env: {"strapiBaseUri":"http://localhost:1337"}
+      env: {"strapiBaseUri":"https://api-newworldbr.herokuapp.com"}
     }
     // Only set once
     if (!process.static && context.req) {
