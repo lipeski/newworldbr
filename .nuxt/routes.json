@@ -1,0 +1,23 @@
+[
+  {
+    "name": "articles-slug",
+    "path": "/articles/:slug?",
+    "component": "C:\\\\Users\\\\PICHAU\\\\Desktop\\\\sites\\\\newworldbr\\\\frontend\\\\pages\\\\articles\\\\_slug.vue",
+    "chunkName": "pages/articles/_slug",
+    "_name": "_19d5c7f2"
+  },
+  {
+    "name": "categories-slug",
+    "path": "/categories/:slug?",
+    "component": "C:\\\\Users\\\\PICHAU\\\\Desktop\\\\sites\\\\newworldbr\\\\frontend\\\\pages\\\\categories\\\\_slug.vue",
+    "chunkName": "pages/categories/_slug",
+    "_name": "_5d6fe91a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\PICHAU\\\\Desktop\\\\sites\\\\newworldbr\\\\frontend\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_37149952"
+  }
+]
