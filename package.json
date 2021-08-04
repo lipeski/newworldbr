@@ -11,7 +11,7 @@
     "generate": "nuxt generate",
     "lint": "eslint --ext .js,.vue .",
     "lint:fix": "eslint --ext .js,.vue . --fix",
-    "heroku-postbuild": "npm run build"
+    "heroku-postbuild": "nuxt build"
   },
   "dependencies": {
     "@nuxtjs/markdownit": "^1.2.7",
