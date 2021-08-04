@@ -17,6 +17,7 @@ export default {
       },
     ],
   },
+  target: 'server',
   /*
    ** Global CSS
    */
